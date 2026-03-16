@@ -1,0 +1,7 @@
+{
+  "name": "Dars AI - Talabalar uchun aqlli yordamchi",
+  "description": "Talabalar uchun darslarni aniqlaydigan va tushuntirib beradigan sun'iy intellekt yordamchisi. Qaysi maktab yoki davlatda bo'lishingizdan qat'i nazar, darsingizni suratga oling va yordam oling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
